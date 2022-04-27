@@ -1,0 +1,9 @@
+{
+	"folders": [
+		{
+			"name": "docker-pyspark-jupyter-azure",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
